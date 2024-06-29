@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Bhandari</h1>
 <h3 align="center">Computer Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant676a&label=Profile%20views&color=0e75b6&style=flat" alt="prashant676a" /> </p>
-
 
 - 📫 How to reach me **prashantbhandari.374@gmail.com**
 
